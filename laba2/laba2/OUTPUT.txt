@@ -1,0 +1,30 @@
+CREATING A SET #1 FROM A STRING tag list:{1 }
+Set #1: {5BCE}
+CREATING A SET #2 FROM A STRING tag list:{1 2 }
+Set #2: {02}
+CREATING A SET #3 FROM A STRING tag list:{1 2 3 }
+Set #3: {47ADF}
+CREATING A SET #4 FROM A STRING tag list:{1 2 3 4 }
+Set #4: {1}
+CREATING A SET #5tag list:{1 2 3 4 5 }
+OR
+CREATING A SET #6 BY COPYING FROM A SET #1 tag list:{1 2 3 4 5 6 }
+CREATING A SET #7 BY COPYING FROM A SET #6 tag list:{1 2 3 4 5 6 7 }
+DELETING A SET #6 tag list:{1 2 3 4 5 7 }
+OR
+CREATING A SET #8 BY COPYING FROM A SET #7 tag list:{1 2 3 4 5 7 8 }
+CREATING A SET #9 BY COPYING FROM A SET #8 tag list:{1 2 3 4 5 7 8 9 }
+DELETING A SET #8 tag list:{1 2 3 4 5 7 9 }
+OR
+CREATING A SET #10 BY COPYING FROM A SET #9 tag list:{1 2 3 4 5 7 9 10 }
+CREATING A SET #11 BY COPYING FROM A SET #10 tag list:{1 2 3 4 5 7 9 10 11 }
+DELETING A SET #10 tag list:{1 2 3 4 5 7 9 11 }
+EQUALS
+DELETING A SET #11 tag list:{1 2 3 4 5 7 9 }
+DELETING A SET #9 tag list:{1 2 3 4 5 7 }
+DELETING A SET #7 tag list:{1 2 3 4 5 }
+DELETING A SET #5 tag list:{1 2 3 4 }
+DELETING A SET #4 tag list:{1 2 3 }
+DELETING A SET #3 tag list:{1 2 }
+DELETING A SET #2 tag list:{1 }
+DELETING A SET #1 tag list:{}
