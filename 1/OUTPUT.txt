@@ -1,0 +1,96 @@
+CREATING A SET #1 FROM A STRING tag list:{1 }Alloc elem. memory: 1
+adding an element to set #1{5}
+CREATING A SET #2 FROM A STRING tag list:{1 2 }Alloc elem. memory: 2
+adding an element to set #2{1}
+Alloc elem. memory: 3
+adding an element to set #2{12}
+Alloc elem. memory: 4
+adding an element to set #2{124}
+Alloc elem. memory: 5
+adding an element to set #2{124A}
+CREATING A SET #3 FROM A STRING tag list:{1 2 3 }Alloc elem. memory: 6
+adding an element to set #3{0}
+Alloc elem. memory: 7
+adding an element to set #3{0F}
+CREATING A SET #4 FROM A STRING tag list:{1 2 3 4 }Alloc elem. memory: 8
+adding an element to set #4{4}
+Alloc elem. memory: 9
+adding an element to set #4{46}
+Alloc elem. memory: 10
+adding an element to set #4{469}
+CREATING A SET #5 tag list:{1 2 3 4 5 }
+OR
+CREATING A SET #6 BY COPYING FROM A SET #1 tag list:{1 2 3 4 5 6 }
+Alloc elem. memory: 11
+adding an element to set #6{5}
+Alloc elem. memory: 12
+adding an element to set #6{15}
+Alloc elem. memory: 13
+adding an element to set #6{125}
+Alloc elem. memory: 14
+adding an element to set #6{1245}
+Alloc elem. memory: 15
+adding an element to set #6{1245A}
+OR
+CREATING A SET #7 BY COPYING FROM A SET #6 tag list:{1 2 3 4 5 6 7 }
+Alloc elem. memory: 16
+adding an element to set #7{5}
+Alloc elem. memory: 17
+adding an element to set #7{15}
+Alloc elem. memory: 18
+adding an element to set #7{125}
+Alloc elem. memory: 19
+adding an element to set #7{1245}
+Alloc elem. memory: 20
+adding an element to set #7{1245A}
+Alloc elem. memory: 21
+adding an element to set #7{01245A}
+Alloc elem. memory: 22
+adding an element to set #7{01245AF}
+OR
+CREATING A SET #8 BY COPYING FROM A SET #7 tag list:{1 2 3 4 5 6 7 8 }
+Alloc elem. memory: 23
+adding an element to set #8{5}
+Alloc elem. memory: 24
+adding an element to set #8{15}
+Alloc elem. memory: 25
+adding an element to set #8{125}
+Alloc elem. memory: 26
+adding an element to set #8{1245}
+Alloc elem. memory: 27
+adding an element to set #8{1245A}
+Alloc elem. memory: 28
+adding an element to set #8{01245A}
+Alloc elem. memory: 29
+adding an element to set #8{01245AF}
+Alloc elem. memory: 30
+adding an element to set #8{012456AF}
+Alloc elem. memory: 31
+adding an element to set #8{0124569AF}
+EQUALS
+Alloc elem. memory: 32
+adding an element to set #5{5}
+Alloc elem. memory: 33
+adding an element to set #5{15}
+Alloc elem. memory: 34
+adding an element to set #5{125}
+Alloc elem. memory: 35
+adding an element to set #5{1245}
+Alloc elem. memory: 36
+adding an element to set #5{1245A}
+Alloc elem. memory: 37
+adding an element to set #5{01245A}
+Alloc elem. memory: 38
+adding an element to set #5{01245AF}
+Alloc elem. memory: 39
+adding an element to set #5{012456AF}
+Alloc elem. memory: 40
+adding an element to set #5{0124569AF}
+DELETING A SET #8 tag list:{1 2 3 4 5 6 7 }
+DELETING A SET #7 tag list:{1 2 3 4 5 6 }
+DELETING A SET #6 tag list:{1 2 3 4 5 }
+DELETING A SET #5 tag list:{1 2 3 4 }
+DELETING A SET #4 tag list:{1 2 3 }
+DELETING A SET #3 tag list:{1 2 }
+DELETING A SET #2 tag list:{1 }
+DELETING A SET #1 tag list:{}
