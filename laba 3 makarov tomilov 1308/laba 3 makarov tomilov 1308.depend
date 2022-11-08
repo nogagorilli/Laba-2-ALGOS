@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1667884955 source:c:\users\user\documents\c\laba 3 makarov tomilov 1308\main.cpp
+	<iostream>
+	"Tree.h"
+	<stdlib.h>
+	<time.h>
+
+1667876449 c:\users\user\documents\c\laba 3 makarov tomilov 1308\tree.h
+	"random"
+	<iostream>
+	<string.h>
+
+1667885797 source:c:\users\user\documents\c\laba 3 makarov tomilov 1308\tree.cpp
+	"Tree.h"
+
