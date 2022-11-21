@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1669058942 source:c:\users\user\documents\c\graphs_kursovaya_3_sem\main.cpp
+	<iostream>
+	<vector>
+	"graph.h"
+	<time.h>
+
+1669061462 source:c:\users\user\documents\c\graphs_kursovaya_3_sem\graph.cpp
+	"graph.h"
+
+1669060320 c:\users\user\documents\c\graphs_kursovaya_3_sem\graph.h
+	<vector>
+	<string.h>
+	<random>
+	<iostream>
+	<cmath>
+
